@@ -6,7 +6,7 @@
 
 * **Э** [Объектно-ориентированное программирование](Subjects/ObjectOrientedProgramming.md)
 * **Э** [Операционные системы](Subjects/OperatingSystems.md)
-* **Э** [Дополнительные главы высшей математики](Subjects/HigherMathematicsExtra.md)
+* **Э** [Дополнительные главы высшей математики](Subjects/HigherMathematics.md)
 * **Э** [Специальные разделы физики](Subjects/Physics.md)
 * **$** [История](Subjects/History.md)
 * **=** [ОГНП: предмет 1](Subjects/Chosen1.md)
