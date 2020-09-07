@@ -7,7 +7,7 @@ https://fitp.itmo.ru
 
 Учебные дисциплины:
 
-* **Э** [Дополнительные главы высшей математики](Subjects/HigherMathematics.md)
+* **Э** [ВышМат](Subjects/HigherMathematics.md)
 * **Э** [Операционные системы](Subjects/OperatingSystems.md)
 * **Э** [Объектно-ориентированное программирование](Subjects/ObjectOrientedProgramming.md)
 * **Э** [Физика](Subjects/Physics.md)
