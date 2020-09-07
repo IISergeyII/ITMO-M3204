@@ -14,7 +14,7 @@ https://fitp.itmo.ru
 * **$** [История](Subjects/History.md)
 * **=** [ОГНП: предмет 1](Subjects/Chosen1.md)
 * **=** [ОГНП: предмет 2](Subjects/Chosen2.md)
-* **=** [Английский язык](https://vk.cc/ak65kn)
+* **=** [Английский язык](Subjects/English.md)
 * **=** [Безопасность жизнедеятельности](Subjects/LifeSafety.md)
 * **=** [Физическая культура](https://isu.ifmo.ru/pls/apex/f?p=2153:15:108337501947348::NO:RP,3::)
 
