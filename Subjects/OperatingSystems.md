@@ -9,7 +9,7 @@
 
 **Преподаватель:** Маятин Александр Владимирович
 
-Смотрите во вторник в 13:30 на [Twitch](https://www.twitch.tv/mayatin)
+Трансляции [Twitch](https://www.twitch.tv/mayatin)
 
 Смотрите записи эфиров на [YouTube](https://www.youtube.com/c/alexandermayatin)
 
