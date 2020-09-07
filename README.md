@@ -20,9 +20,7 @@ https://fitp.itmo.ru
 
 
 Учебная документация:
-* [Расписание занятий](Timetable.md#Расписание)
-* [Список экзаменов](Timetable.md#Экзамены)
-* [Учебный план](Files/Plan2019.pdf)
+* [Учебный план](Files/09.03.02_programmirovanie__i_internet-tehnologii.pdf)
 
 Документы:
 * [Список группы](GroupList.md)
