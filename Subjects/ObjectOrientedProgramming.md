@@ -18,9 +18,9 @@
 
 ### Лабы
 
-**Преподаватель:** Титова Анастасия Витальевна
+**Преподаватель:** Иванов Александр Сергеевич
 
-[Запись на сдачу + Баллы](https://docs.google.com/spreadsheets/d/1I_MkfR8yPwZSTjwjQdBMnVa-AjU96FR-TjozxhddXvI/edit#gid=0)
+[Баллы]()
 
 [Система формирования отчётов](https://reports.artrey.ru/)
 
