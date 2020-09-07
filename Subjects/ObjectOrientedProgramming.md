@@ -9,8 +9,6 @@
 
 **Преподаватель:** Иванов Александр Сергеевич
 
-Слушайте в понедельник в 10:00 в [Zoom](https://itmo.zoom.us/j/9151124949)
-
 [Записи лекций](https://yadi.sk/d/iGz5-Vunb5dKHA?w=1)
 
 **Рекомендуемая литература**:
@@ -20,13 +18,9 @@
 
 ### Лабы
 
-**Преподаватель:** Носовицкий Евгений Дмитриевич
+**Преподаватель:** Титова Анастасия Витальевна
 
-Языки: C#, Java, C++.
-
-Занимайтесь в нечётный понедельник в 11:40 x2 в [Zoom](https://itmo.zoom.us/j/8545966049)
-
-[Баллы по практике](https://docs.google.com/spreadsheets/d/1H75MoSvL-165x5aM-p26eFZcY57UYx0gPtOHhvpGYGw/edit?usp=sharing)
+[Запись на сдачу + Баллы](https://docs.google.com/spreadsheets/d/1I_MkfR8yPwZSTjwjQdBMnVa-AjU96FR-TjozxhddXvI/edit#gid=0)
 
 [Система формирования отчётов](https://reports.artrey.ru/)
 
