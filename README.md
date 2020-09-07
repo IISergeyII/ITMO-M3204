@@ -14,15 +14,14 @@ https://fitp.itmo.ru
 * **$** [История](Subjects/History.md)
 * **=** [ОГНП: предмет 1](Subjects/Chosen1.md)
 * **=** [ОГНП: предмет 2](Subjects/Chosen2.md)
-* **=** [Безопасность жизнедеятельности](Subjects/LifeSafety.md)
 * **=** [Английский язык](https://vk.cc/ak65kn)
+* **=** [Безопасность жизнедеятельности](Subjects/LifeSafety.md)
 * **=** [Физическая культура](https://isu.ifmo.ru/pls/apex/f?p=2153:15:108337501947348::NO:RP,3::)
 
 
 Учебная документация:
 * [Расписание занятий](Timetable.md#Расписание)
 * [Список экзаменов](Timetable.md#Экзамены)
-* [Архив учебных дисциплин](Archive/README.md)
 * [Учебный план](Files/Plan2019.pdf)
 
 Документы:
