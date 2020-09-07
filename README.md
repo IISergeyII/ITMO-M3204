@@ -19,7 +19,8 @@ https://fitp.itmo.ru
 * **=** [Физическая культура](https://isu.ifmo.ru/pls/apex/f?p=2153:15:108337501947348::NO:RP,3::)
 
 
-Учебная документация:
+Документы:
+* [Список группы](GroupList.md)
 * [Учебный план](Files/09.03.02_programmirovanie__i_internet-tehnologii.pdf)
 
 Учебные ссылки:
