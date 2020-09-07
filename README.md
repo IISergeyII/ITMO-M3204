@@ -22,12 +22,6 @@ https://fitp.itmo.ru
 Учебная документация:
 * [Учебный план](Files/09.03.02_programmirovanie__i_internet-tehnologii.pdf)
 
-Документы:
-* [Список группы](GroupList.md)
-* [Диск потока](https://drive.google.com/drive/folders/1fC6WB74TOPxm7cGoJRpLWFFAYl6r1nQl)
-* [Диск группы](https://drive.google.com/drive/folders/1-vDZS3wehIW1l_QkGFHEEHH3K2wVaMKx)
-* [Конспекты ИТМО](http://neerc.ifmo.ru/wiki/)
-
 Учебные ссылки:
 * [ИСУ](https://isu.ifmo.ru/)
 * [ЦДО](https://de.ifmo.ru/)
