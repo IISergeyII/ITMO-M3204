@@ -18,6 +18,7 @@
 
 *C#*
 * [Metanit](https://metanit.com/sharp/)
+* [Professorweb](https://professorweb.ru/)
 
 ### Лабы
 
