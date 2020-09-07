@@ -11,7 +11,7 @@
 
 Трансляции [Twitch](https://www.twitch.tv/mayatin)
 
-Смотрите записи эфиров на [YouTube](https://www.youtube.com/c/alexandermayatin)
+Запись трансляций [YouTube](https://www.youtube.com/c/alexandermayatin)
 
 **Некоторые справочные ссылки:**
 
@@ -27,16 +27,8 @@
 
 ### Лабы
 
-**Преподаватель:** Маятин Александр Владимирович
+**Преподаватель:** Титова Анастасия Витальевна
 
-[Таблица с баллами](https://docs.google.com/spreadsheets/d/1n9YydxIeP9eLmR3dSG5WHvcDCj82FvZ2w8F5NztQ8YM/edit#gid=0)
-
-[Образ системы](https://yadi.sk/d/d48ND4ylz_-0pA?w=1)
-
-[Учебник по Bash](https://www.opennet.ru/docs/RUS/bash_scripting_guide/)
-
-Занимайтесь в пятницу в 15:20 в [Zoom](https://us02web.zoom.us/j/8322383175)
-
----
+[Запись на сдачу + Баллы](https://docs.google.com/spreadsheets/d/1I_MkfR8yPwZSTjwjQdBMnVa-AjU96FR-TjozxhddXvI/edit#gid=0)
 
 [Лабораторная работа №1](../Files/OS/OS_Lab1.pdf)
