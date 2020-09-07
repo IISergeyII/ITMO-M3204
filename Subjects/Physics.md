@@ -20,8 +20,6 @@
 
 [Успеваемость](https://docs.google.com/spreadsheets/d/1jdBXanA0Ixc2c9KLpdExGMcN7mNKOHD351mYA2D4Y-4/edit#gid=0)
 
-
-
 ---
 
 ### Главный сайт
