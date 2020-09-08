@@ -31,4 +31,5 @@
 
 [Запись на сдачу + Баллы](https://docs.google.com/spreadsheets/d/1I_MkfR8yPwZSTjwjQdBMnVa-AjU96FR-TjozxhddXvI/edit#gid=0)
 
-[Лабораторная работа №1](../Files/OS/OS_Lab1.pdf)
+**Условия лабораторных**
+* [Лабораторная работа №1](../Files/OS/OS_Lab1.pdf)
