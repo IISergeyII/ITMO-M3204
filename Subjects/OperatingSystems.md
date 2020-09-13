@@ -31,6 +31,8 @@
 
 [Запись на сдачу + Баллы](https://docs.google.com/spreadsheets/d/1I_MkfR8yPwZSTjwjQdBMnVa-AjU96FR-TjozxhddXvI/edit#gid=0)
 
+[Учебник по Bash](https://www.opennet.ru/docs/RUS/bash_scripting_guide/)
+
 **Условия лабораторных:**
 * [Лаб1](../Files/OS/OS_Lab1.pdf)
 [`Решение Лаб1`](https://github.com/IISergeyII/ITMO_OS_Labs/tree/master/OSLab1)
