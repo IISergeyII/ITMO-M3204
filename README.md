@@ -8,16 +8,15 @@ https://fitp.itmo.ru
 
 Учебные дисциплины:
 
-1) **Э** [ВышМат](Subjects/HigherMathematics.md)
-2) **Э** [Операционные системы](Subjects/OperatingSystems.md)
-3. **Э** [Объектно-ориентированное программирование](Subjects/ObjectOrientedProgramming.md)
+1. **Э** [ВышМат](Subjects/HigherMathematics.md)
+2. **Э** [ОС](Subjects/OperatingSystems.md)
+3. **Э** [ООП](Subjects/ObjectOrientedProgramming.md)
 4. **Э** [Физика](Subjects/Physics.md)
-5. **$** [История](Subjects/History.md)
+5. **=** [Английский язык](Subjects/English.md)
 6.  **=** [ОГНП: предмет 1](Subjects/Chosen1.md)
 7. **=** [ОГНП: предмет 2](Subjects/Chosen2.md)
-8. **=** [Английский язык](Subjects/English.md)
-9. **=** [Безопасность жизнедеятельности](Subjects/LifeSafety.md)
-10. **=** [Физическая культура](https://isu.ifmo.ru/pls/apex/f?p=2153:15:108337501947348::NO:RP,3::)
+8. **=** [Безопасность жизнедеятельности](Subjects/LifeSafety.md)
+9. **=** [Физическая культура](https://isu.ifmo.ru/pls/apex/f?p=2153:15:108337501947348::NO:RP,3::)
 
 
 Документы:
