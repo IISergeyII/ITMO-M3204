@@ -24,7 +24,7 @@
 
 **Преподаватель:** Иванов Александр Сергеевич
 
-[Баллы по практике](https://docs.google.com/spreadsheets/d/1H75MoSvL-165x5aM-p26eFZcY57UYx0gPtOHhvpGYGw/edit?usp=sharing)
+[Таблица успеваемости](https://docs.google.com/spreadsheets/d/1H75MoSvL-165x5aM-p26eFZcY57UYx0gPtOHhvpGYGw/edit?usp=sharing)
 
 [Система формирования отчётов](https://reports.artrey.ru/)
 
