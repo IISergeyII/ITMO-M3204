@@ -17,7 +17,6 @@
 
 * [Группа ВК](https://vk.com/mayatin)
 * [Конспект/Экзамен](https://docs.google.com/document/d/1ywCeuZLNm8hPLbIRfp_qVuOgFM0a5x0MwR1ST97T6yM/edit)
-* [Сайт факультета](https://fitp.itmo.ru)
 
 **Литература:** 
 * Таненбаум Э. Современные операционные системы.- СПб.: Питер, 2003 г.– (не рекомендуется читать целиком)
