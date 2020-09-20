@@ -28,4 +28,6 @@
 
 [Система формирования отчётов](https://reports.artrey.ru/)
 
-[Лабораторная работа №1. INI](../Files/OOP/OOP1.pdf)
+**Условия лабораторных:**
+* [Лаб1. INI](../Files/OOP/OOP1.pdf)
+[`Решение Лаб1. INI`](https://github.com/IISergeyII/ITMO_OOP_Labs)
