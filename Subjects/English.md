@@ -19,4 +19,4 @@
 
 [Аудио](https://drive.google.com/drive/folders/0B4Prlw6AbEufZDBpdEQ5b1dld2M)
 
-[Аудио-Видео / Вьетнам](https://sachtienganhhanoi.com/audio-video-empower-c1-advanced-class-cd/)
+[Аудио-Видео / Неофициальная ссылка](https://sachtienganhhanoi.com/audio-video-empower-c1-advanced-class-cd/)
