@@ -16,9 +16,8 @@
 * Паттерны проектирования, "банда четырех"
 * Рефакторинг, Фаулер
 
-*C#*
+*C++*
 * [Metanit](https://metanit.com/sharp/)
-* [Professorweb](https://professorweb.ru/)
 
 ### Лабы
 
