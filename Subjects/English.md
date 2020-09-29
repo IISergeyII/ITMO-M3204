@@ -11,12 +11,13 @@
 
 **Почта:** ajayioluwakemideborah@itmo.ru
 
+[ССылка Zoom](https://us04web.zoom.us/j/2039994556?pwd=YzNuUTZTbHRCZHVYOXBmTU9uYmxWUT09)
+
 [Диск для загрузки HW](https://drive.google.com/drive/folders/1CRb9mCkB0NObhzaqRdnNHt25eqkAqfRM)
 
 [Таблица успеваемости](https://docs.google.com/spreadsheets/d/1quL4NVfugMj99SpmpTff7xk26r1RYlB6Zk0i2-p6jgw/edit#gid=1772105772)
 
 [Учебник](https://drive.google.com/file/d/0B5H-lwCfhG2XcVFkNGZWNGkzTFE/view)
 
-[Аудио](https://drive.google.com/drive/folders/0B4Prlw6AbEufZDBpdEQ5b1dld2M)
+[Аудио](https://drive.google.com/drive/folders/1BjE0n3c7eKA5OGznsL5aWrk3LL1RYYZR)
 
-[Аудио-Видео / Неофициальная ссылка](https://sachtienganhhanoi.com/audio-video-empower-c1-advanced-class-cd/)
