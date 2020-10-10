@@ -1,4 +1,4 @@
-# ОГНП: предмет 2
+# ОГНП: UNIX/Linux в инфокоммуникациях
 
 |3 семестр|
 |---|
@@ -12,3 +12,8 @@
 ### Лабы
 
 **Преподаватель:** 
+
+
+### Ссылки
+
+[Free/Libre and Open Source Software](http://sdn.ifmo.ru/education/courses/free-libre-and-open-source-software)
