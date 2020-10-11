@@ -29,4 +29,4 @@
 
 **Условия лабораторных:**
 * [Лаб1. INI](../Files/OOP/OOP1.pdf)
-[`Решение Лаб1. INI`](https://github.com/IISergeyII/ITMO/tree/master/Files/OOP/Lab1)
+* [Лаб2. Магазин](../Files/OOP/OOP2.pdf)
