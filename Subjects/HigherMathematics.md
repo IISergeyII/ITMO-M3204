@@ -22,3 +22,11 @@
 ### Практика
 
 **Преподаватель:** Тертычный Владимир Юрьевич
+
+Задачник:
+- [старый](../Files/Tertychny/ExerciseBook_v1.pdf): совпадают номера задач с практикой, плохое качество
+- [новый](../Files/Tertychny/ExerciseBook_v2.pdf): не совпадают номера, хорошее качество
+
+[Записи практик](https://www.youtube.com/playlist?list=PLj7ewET2KEJwOaxp_g2qVgxIi4TogUfn0)
+
+[Типовик 5](http://mathdep.ifmo.ru/files/library/Tipov6mod.pdf)
