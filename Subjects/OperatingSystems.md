@@ -34,6 +34,4 @@
 
 **Условия лабораторных:**
 * [Лаб1](../Files/OS/OS_Lab1.pdf)
-[`Решение Лаб1`](https://github.com/IISergeyII/ITMO_OS_Labs)
 * [Лаб2](../Files/OS/OS_Lab2.pdf)
-[`Решение Лаб2`](https://github.com/IISergeyII/ITMO_OS_Labs/tree/master/Lab2)
