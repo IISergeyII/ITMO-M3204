@@ -35,4 +35,4 @@
 **Условия лабораторных:**
 * [Лаб1](../Files/OS/OS_Lab1.pdf)
 * [Лаб2](../Files/OS/OS_Lab2.pdf)
-* [Лаб2](../Files/OS/OS_Lab3.pdf)
+* [Лаб3](../Files/OS/OS_Lab3.pdf)
