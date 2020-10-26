@@ -22,6 +22,8 @@
 
 [Таблица успеваемости](https://docs.google.com/spreadsheets/d/1H75MoSvL-165x5aM-p26eFZcY57UYx0gPtOHhvpGYGw/edit?usp=sharing)
 
+[Очередь M3204](https://docs.google.com/spreadsheets/d/1syVd7QPfwkR20bTASbcmWCUDlyP_iwk7-f-2F8EdzBY/edit#gid=0)
+
 [Система формирования отчётов](https://reports.artrey.ru/)
 
 **Условия лабораторных:**
