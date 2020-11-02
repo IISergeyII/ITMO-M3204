@@ -30,6 +30,8 @@
 
 [Запись на сдачу + Баллы](https://docs.google.com/spreadsheets/d/1I_MkfR8yPwZSTjwjQdBMnVa-AjU96FR-TjozxhddXvI/edit#gid=0)
 
+[Ссылка на Zoom](https://Dell.zoom.us/j/92423409280?pwd=V3ROOVFSMGRVbHc3N1B0K2RaSytPdz09)
+
 [Учебник по Bash](https://www.opennet.ru/docs/RUS/bash_scripting_guide/)
 
 **Условия лабораторных:**
