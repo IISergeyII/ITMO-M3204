@@ -9,7 +9,11 @@
 
 **Преподаватель:** Иванов Александр Сергеевич
 
+[Система формирования отчётов](https://reports.artrey.ru/)
+
 [Записи лекций](https://yadi.sk/d/iGz5-Vunb5dKHA?w=1)
+
+[Презентации](https://drive.google.com/drive/folders/1qvI4ni8HoIOSDKjV4QiZ_6zkIS1vuqe3)
 
 **Рекомендуемая литература**:
 
@@ -23,8 +27,6 @@
 [Таблица успеваемости](https://docs.google.com/spreadsheets/d/1H75MoSvL-165x5aM-p26eFZcY57UYx0gPtOHhvpGYGw/edit?usp=sharing)
 
 [Очередь M3204](https://docs.google.com/spreadsheets/d/1syVd7QPfwkR20bTASbcmWCUDlyP_iwk7-f-2F8EdzBY/edit#gid=0)
-
-[Система формирования отчётов](https://reports.artrey.ru/)
 
 **Условия лабораторных:**
 * [Лаб1. INI](../Files/OOP/OOP1.pdf)
