@@ -9,7 +9,7 @@
 
 **Преподаватель:** Музыченко Яна Борисовна
 
-[Записи лекций]
+[Записи лекций](https://www.youtube.com/playlist?list=PLj7ewET2KEJyHMgQv9qI4pLtGii3qhkKf)
 
 **Рекомендуемая литература**:
 * Савельев т2
