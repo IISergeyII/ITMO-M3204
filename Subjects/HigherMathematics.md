@@ -29,4 +29,5 @@
 
 [Записи практик](https://www.youtube.com/playlist?list=PLj7ewET2KEJwOaxp_g2qVgxIi4TogUfn0)
 
-[Типовик 5](http://mathdep.ifmo.ru/files/library/Tipov6mod.pdf)
+[Типовик 6 (Ряды)](http://mathdep.ifmo.ru/files/library/Tipov6mod.pdf)
+[Типовик 5 (Диффуры)](http://mathdep.ifmo.ru/files/library/Tipov5mod.pdf)
