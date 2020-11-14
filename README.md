@@ -20,7 +20,7 @@ https://fitp.itmo.ru
 
 Документы:
 * [Список группы](GroupList.md)
-* [Учебный план](Files/09.03.02_programmirovanie__i_internet-tehnologii.pdf)
+* [Учебный план](Files/EducationPlan.xlsx)
 
 Учебные ссылки:
 * [ИСУ](https://isu.ifmo.ru/)
