@@ -39,3 +39,4 @@
 * [Лаб2](../Files/OS/OS_Lab2.pdf)
 * [Лаб3](../Files/OS/OS_Lab3.pdf)
 * [Лаб4](../Files/OS/OS_Lab4.pdf)
+* [Лаб5](../Files/OS/OS_Lab5.pdf)
