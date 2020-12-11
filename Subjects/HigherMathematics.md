@@ -27,6 +27,8 @@
 - [старый](../Files/Tertychny/ExerciseBook_v1.pdf): совпадают номера задач с практикой, плохое качество
 - [новый](../Files/Tertychny/ExerciseBook_v2.pdf): не совпадают номера, хорошее качество
 
+[Ссылка на практику](https://itmo.zoom.us/j/87112011683?pwd=ZWNLMTNkSkFQWmh1MTNudnVVN0FZUT09#success)
+
 [Записи практик](https://www.youtube.com/playlist?list=PLj7ewET2KEJwOaxp_g2qVgxIi4TogUfn0)
 
 [Типовик 6 (Ряды)](http://mathdep.ifmo.ru/files/library/Tipov6mod.pdf)
