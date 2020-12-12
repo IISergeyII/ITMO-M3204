@@ -33,4 +33,4 @@
 * [Лаб2. Магазин](../Files/OOP/OOP2.pdf)
 * [Лаб3. Симулятор гонок](../Files/OOP/OOP3.pdf)
 * [Лаб4. Бэкапы](../Files/OOP/OOP4.pdf)
-* [Лаб4. Банки](../Files/OOP/OOP5.pdf)
+* [Лаб5. Банки](../Files/OOP/OOP5.pdf)
