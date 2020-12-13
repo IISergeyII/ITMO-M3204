@@ -34,3 +34,4 @@
 * [Лаб3. Симулятор гонок](../Files/OOP/OOP3.pdf)
 * [Лаб4. Бэкапы](../Files/OOP/OOP4.pdf)
 * [Лаб5. Банки](../Files/OOP/OOP5.pdf)
+* [Лаб6. Отчёты](../Files/OOP/OOP6.pdf)
