@@ -7,7 +7,7 @@
 ## 3 семестр
 ### Экзамен
 
-[Вопросы к экзамену](../Files/OS/OOP_exam_questions.docx)
+[Вопросы к экзамену](../Files/OOP/OOP_exam_questions.docx)
 
 ### Лекции
 
