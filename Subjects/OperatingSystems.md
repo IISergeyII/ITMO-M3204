@@ -10,7 +10,7 @@
 [Вопросы к экзамену](../Files/OS/OS_exam_questions.pdf)
 
 Подготовка:
-* Написать ответ на каждый билет
+* Написать ответ на каждый билет  
 [Прошлогодний Конспект/Экзамен](https://docs.google.com/document/d/1ywCeuZLNm8hPLbIRfp_qVuOgFM0a5x0MwR1ST97T6yM/edit)
 * Пересмотреть лекции/презентации
 *
