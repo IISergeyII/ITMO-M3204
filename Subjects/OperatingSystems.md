@@ -11,6 +11,7 @@
 
 Подготовка:
 * Написать ответ на каждый билет
+[Прошлогодний Конспект/Экзамен](https://docs.google.com/document/d/1ywCeuZLNm8hPLbIRfp_qVuOgFM0a5x0MwR1ST97T6yM/edit)
 * Пересмотреть лекции/презентации
 *
 
@@ -24,7 +25,6 @@
 
 **Справочные ссылки:**
 
-* [Группа ВК](https://vk.com/mayatin)
 * [Конспект/Экзамен](https://docs.google.com/document/d/1ywCeuZLNm8hPLbIRfp_qVuOgFM0a5x0MwR1ST97T6yM/edit)
 
 **Литература:** 
