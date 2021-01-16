@@ -10,6 +10,8 @@
 
 [Вопросы к экзамену](../Files/HigherMathematics/HigherMathematics_exam_questions.pdf)
 
+[Записи лекций](https://www.youtube.com/playlist?list=PLj7ewET2KEJxltgdxMv23dKzFmztEno1v)
+
 Подготовка:
 * Написать ответ на каждый билет  
 * Письменный. Конспект лекций.
@@ -21,8 +23,6 @@
 **Преподаватель:** Исаева Татьяна Тимофеевна
 
 [Группа с материалами](https://vk.com/club193548696)
-
-[Записи лекций](https://www.youtube.com/playlist?list=PLj7ewET2KEJxltgdxMv23dKzFmztEno1v)
 
 **Рекомендуемая литература**:
 
